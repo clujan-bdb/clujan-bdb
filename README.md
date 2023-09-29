@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65119ebc3dc8db4c64ba3606?variant=dark)](https://roadmap.sh)
+
 <!--
 **clujan-bdb/clujan-bdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
